@@ -1,3 +1,12 @@
+/*
+Algorithm:
+1. Start.
+2. Read two numbers from user a and b.
+3. Add a & b and store the result in sum.
+4. Display the sum.
+5. Stop.
+*/
+
 #include <stdio.h>
 
 int main()
@@ -13,3 +22,8 @@ int main()
 
     return 0;
 }
+
+/*
+Enter two numbers: 10 20
+Sum = 30
+*/
